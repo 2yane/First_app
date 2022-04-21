@@ -1,0 +1,6 @@
+<% provide(:title, @user.name) %>
+<h1>
+  <%= gravatar_for @user %>
+  <%= @user.name %>
+  assert_template 'users/show'
+</h1>

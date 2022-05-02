@@ -10,6 +10,9 @@ gem 'bootstrap-sass'
 
 gem 'bcrypt'
 
+gem 'byebug'
+
+
 gem 'rails-controller-testing'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
